@@ -7,7 +7,7 @@ body {
     width:100%;
 }
 
-h1 {
+.titulo-centralizado {
     text-align: center
 }
 
@@ -32,9 +32,6 @@ em strong {
     padding: 20px;
 }
 
-h2 {
-    text-align: center;
-}
 ul {
     display: inline-block;
     vertical-align: top;
